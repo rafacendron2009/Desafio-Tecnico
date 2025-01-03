@@ -1,0 +1,11 @@
+C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\Tarefas.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\Tarefas.Entities.AssemblyInfoInputs.cache
+C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\Tarefas.Entities.AssemblyInfo.cs
+C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\Tarefas.Entities.csproj.CoreCompileInputs.cache
+C:\ONS\Projetos\Thunders\Tarefas.Entities\bin\Debug\net8.0\Tarefas.Entities.deps.json
+C:\ONS\Projetos\Thunders\Tarefas.Entities\bin\Debug\net8.0\Tarefas.Entities.dll
+C:\ONS\Projetos\Thunders\Tarefas.Entities\bin\Debug\net8.0\Tarefas.Entities.pdb
+C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\Tarefas.Entities.dll
+C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\refint\Tarefas.Entities.dll
+C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\Tarefas.Entities.pdb
+C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\ref\Tarefas.Entities.dll
