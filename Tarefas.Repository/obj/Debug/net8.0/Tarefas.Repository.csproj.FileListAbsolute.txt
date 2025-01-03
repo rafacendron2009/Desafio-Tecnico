@@ -1,0 +1,15 @@
+C:\ONS\Projetos\Thunders\Tarefas.Repository\bin\Debug\net8.0\Tarefas.Repository.deps.json
+C:\ONS\Projetos\Thunders\Tarefas.Repository\bin\Debug\net8.0\Tarefas.Repository.dll
+C:\ONS\Projetos\Thunders\Tarefas.Repository\bin\Debug\net8.0\Tarefas.Repository.pdb
+C:\ONS\Projetos\Thunders\Tarefas.Repository\bin\Debug\net8.0\Tarefas.Entities.dll
+C:\ONS\Projetos\Thunders\Tarefas.Repository\bin\Debug\net8.0\Tarefas.Entities.pdb
+C:\ONS\Projetos\Thunders\Tarefas.Repository\obj\Debug\net8.0\Tarefas.Repository.csproj.AssemblyReference.cache
+C:\ONS\Projetos\Thunders\Tarefas.Repository\obj\Debug\net8.0\Tarefas.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ONS\Projetos\Thunders\Tarefas.Repository\obj\Debug\net8.0\Tarefas.Repository.AssemblyInfoInputs.cache
+C:\ONS\Projetos\Thunders\Tarefas.Repository\obj\Debug\net8.0\Tarefas.Repository.AssemblyInfo.cs
+C:\ONS\Projetos\Thunders\Tarefas.Repository\obj\Debug\net8.0\Tarefas.Repository.csproj.CoreCompileInputs.cache
+C:\ONS\Projetos\Thunders\Tarefas.Repository\obj\Debug\net8.0\Tarefas..CAB0B914.Up2Date
+C:\ONS\Projetos\Thunders\Tarefas.Repository\obj\Debug\net8.0\Tarefas.Repository.dll
+C:\ONS\Projetos\Thunders\Tarefas.Repository\obj\Debug\net8.0\refint\Tarefas.Repository.dll
+C:\ONS\Projetos\Thunders\Tarefas.Repository\obj\Debug\net8.0\Tarefas.Repository.pdb
+C:\ONS\Projetos\Thunders\Tarefas.Repository\obj\Debug\net8.0\ref\Tarefas.Repository.dll
