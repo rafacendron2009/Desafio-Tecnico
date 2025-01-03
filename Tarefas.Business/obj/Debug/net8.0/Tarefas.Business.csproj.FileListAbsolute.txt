@@ -1,0 +1,15 @@
+C:\ONS\Projetos\Thunders\Tarefas.Business\bin\Debug\net8.0\Tarefas.Business.deps.json
+C:\ONS\Projetos\Thunders\Tarefas.Business\bin\Debug\net8.0\Tarefas.Business.dll
+C:\ONS\Projetos\Thunders\Tarefas.Business\bin\Debug\net8.0\Tarefas.Business.pdb
+C:\ONS\Projetos\Thunders\Tarefas.Business\bin\Debug\net8.0\Tarefas.Entities.dll
+C:\ONS\Projetos\Thunders\Tarefas.Business\bin\Debug\net8.0\Tarefas.Entities.pdb
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas.Business.csproj.AssemblyReference.cache
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas.Business.AssemblyInfoInputs.cache
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas.Business.AssemblyInfo.cs
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas.Business.csproj.CoreCompileInputs.cache
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas..28173BCB.Up2Date
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas.Business.dll
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\refint\Tarefas.Business.dll
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas.Business.pdb
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\ref\Tarefas.Business.dll

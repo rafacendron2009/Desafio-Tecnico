@@ -1,0 +1,377 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business.Imp\\Tarefas.Business.Imp.csproj": {}
+  },
+  "projects": {
+    "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business.Imp\\Tarefas.Business.Imp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business.Imp\\Tarefas.Business.Imp.csproj",
+        "projectName": "Tarefas.Business.Imp",
+        "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business.Imp\\Tarefas.Business.Imp.csproj",
+        "packagesPath": "C:\\Users\\rafael.cendron\\.nuget\\packages\\",
+        "outputPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business.Imp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.cendron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business\\Tarefas.Business.csproj": {
+                "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business\\Tarefas.Business.csproj"
+              },
+              "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository.Imp\\Tarefas.Repository.Imp.csproj": {
+                "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository.Imp\\Tarefas.Repository.Imp.csproj"
+              },
+              "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository\\Tarefas.Repository.csproj": {
+                "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository\\Tarefas.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business\\Tarefas.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business\\Tarefas.Business.csproj",
+        "projectName": "Tarefas.Business",
+        "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business\\Tarefas.Business.csproj",
+        "packagesPath": "C:\\Users\\rafael.cendron\\.nuget\\packages\\",
+        "outputPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.cendron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ONS\\Projetos\\Thunders\\Tarefas.Entities\\Tarefas.Entities.csproj": {
+                "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Entities\\Tarefas.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ONS\\Projetos\\Thunders\\Tarefas.Entities\\Tarefas.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Entities\\Tarefas.Entities.csproj",
+        "projectName": "Tarefas.Entities",
+        "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Entities\\Tarefas.Entities.csproj",
+        "packagesPath": "C:\\Users\\rafael.cendron\\.nuget\\packages\\",
+        "outputPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.cendron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository.Imp\\Tarefas.Repository.Imp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository.Imp\\Tarefas.Repository.Imp.csproj",
+        "projectName": "Tarefas.Repository.Imp",
+        "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository.Imp\\Tarefas.Repository.Imp.csproj",
+        "packagesPath": "C:\\Users\\rafael.cendron\\.nuget\\packages\\",
+        "outputPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository.Imp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.cendron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ONS\\Projetos\\Thunders\\Tarefas.Entities\\Tarefas.Entities.csproj": {
+                "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Entities\\Tarefas.Entities.csproj"
+              },
+              "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository\\Tarefas.Repository.csproj": {
+                "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository\\Tarefas.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository\\Tarefas.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository\\Tarefas.Repository.csproj",
+        "projectName": "Tarefas.Repository",
+        "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository\\Tarefas.Repository.csproj",
+        "packagesPath": "C:\\Users\\rafael.cendron\\.nuget\\packages\\",
+        "outputPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.cendron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ONS\\Projetos\\Thunders\\Tarefas.Entities\\Tarefas.Entities.csproj": {
+                "projectPath": "C:\\ONS\\Projetos\\Thunders\\Tarefas.Entities\\Tarefas.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

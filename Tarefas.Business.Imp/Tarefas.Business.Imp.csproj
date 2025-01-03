@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Business\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tarefas.Business\Tarefas.Business.csproj" />
+    <ProjectReference Include="..\Tarefas.Repository.Imp\Tarefas.Repository.Imp.csproj" />
+    <ProjectReference Include="..\Tarefas.Repository\Tarefas.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
