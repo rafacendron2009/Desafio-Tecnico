@@ -13,3 +13,4 @@ C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas.Business.dll
 C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\refint\Tarefas.Business.dll
 C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas.Business.pdb
 C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\ref\Tarefas.Business.dll
+C:\ONS\Projetos\Thunders\Tarefas.Business\obj\Debug\net8.0\Tarefas.Business.sourcelink.json

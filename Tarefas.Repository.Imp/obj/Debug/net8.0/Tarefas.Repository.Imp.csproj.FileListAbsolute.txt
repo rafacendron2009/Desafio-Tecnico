@@ -17,3 +17,4 @@ C:\ONS\Projetos\Thunders\Tarefas.Repository.Imp\obj\Debug\net8.0\Tarefas.Reposit
 C:\ONS\Projetos\Thunders\Tarefas.Repository.Imp\obj\Debug\net8.0\ref\Tarefas.Repository.Imp.dll
 C:\ONS\Projetos\Thunders\Tarefas.Repository.Imp\bin\Debug\net8.0\Tarefas.Repository.dll
 C:\ONS\Projetos\Thunders\Tarefas.Repository.Imp\bin\Debug\net8.0\Tarefas.Repository.pdb
+C:\ONS\Projetos\Thunders\Tarefas.Repository.Imp\obj\Debug\net8.0\Tarefas.Repository.Imp.sourcelink.json

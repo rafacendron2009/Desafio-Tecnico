@@ -21,3 +21,4 @@ C:\ONS\Projetos\Thunders\Tarefas.Business.Imp\obj\Debug\net8.0\refint\Tarefas.Bu
 C:\ONS\Projetos\Thunders\Tarefas.Business.Imp\obj\Debug\net8.0\Tarefas.Business.Imp.pdb
 C:\ONS\Projetos\Thunders\Tarefas.Business.Imp\obj\Debug\net8.0\Tarefas.Business.Imp.genruntimeconfig.cache
 C:\ONS\Projetos\Thunders\Tarefas.Business.Imp\obj\Debug\net8.0\ref\Tarefas.Business.Imp.dll
+C:\ONS\Projetos\Thunders\Tarefas.Business.Imp\obj\Debug\net8.0\Tarefas.Business.Imp.sourcelink.json

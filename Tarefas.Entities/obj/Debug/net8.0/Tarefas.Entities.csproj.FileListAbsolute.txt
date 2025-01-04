@@ -9,3 +9,4 @@ C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\Tarefas.Entities.dll
 C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\refint\Tarefas.Entities.dll
 C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\Tarefas.Entities.pdb
 C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\ref\Tarefas.Entities.dll
+C:\ONS\Projetos\Thunders\Tarefas.Entities\obj\Debug\net8.0\Tarefas.Entities.sourcelink.json

@@ -16,14 +16,20 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<ITarefaServices, TarefaServices>();
 builder.Services.AddScoped<ITarefaRepository, TarefaRepository>();
 
-builder.Services.AddDbContext<TarefasContext>();
-var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
+builder.Services.AddDbContext<TarefasContext>();
+
+
+var app = builder.Build();
+app.UseSwagger();
+app.UseSwaggerUI();
+
+using (var scope = app.Services.CreateScope())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    var dbContext = scope.ServiceProvider.GetRequiredService<TarefasContext>();
+    dbContext.Database.Migrate(); // Aplica todas as migrações pendentes
 }
+
 
 app.UseHttpsRedirection();
 

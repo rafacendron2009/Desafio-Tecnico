@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarefas.Business.Imp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa3530ae2fc07572443c92170cae30e94b3f58c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarefas.Business.Imp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarefas.Business.Imp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

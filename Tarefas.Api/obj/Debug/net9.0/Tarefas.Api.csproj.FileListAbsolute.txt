@@ -242,4 +242,4 @@ C:\ONS\Projetos\Thunders\Tarefas.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnal
 C:\ONS\Projetos\Thunders\Tarefas.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\ONS\Projetos\Thunders\Tarefas.Api\bin\Debug\net9.0\Tarefas.Business.Imp.dll
 C:\ONS\Projetos\Thunders\Tarefas.Api\bin\Debug\net9.0\Tarefas.Business.Imp.pdb
-C:\ONS\Projetos\Thunders\Tarefas.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\ONS\Projetos\Thunders\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.sourcelink.json
